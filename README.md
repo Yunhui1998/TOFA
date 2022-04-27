@@ -51,6 +51,6 @@ We test TOFA on JSP instances in [OR-LIBRARY](http://people.brunel.ac.uk/~mastjj
 
 
 <p float="left">
-  <img src=".\README pic\image-20220427155956385.png" width="500" />
-  <img src=".\README pic\image-20220427155731665.png" width="500" /> 
+  <img src=".\README pic\image-20220427155956385.png" width="400" />
+  <img src=".\README pic\image-20220427155731665.png" width="400" /> 
 </p>

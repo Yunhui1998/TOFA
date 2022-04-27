@@ -34,3 +34,16 @@ We test TOFA on JSP instances in [OR-LIBRARY](http://people.brunel.ac.uk/~mastjj
 
 [la32](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la32-1883.html); [la33](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la33-1755.html); [la34](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la34-1791.html); [la35](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la35-1897.html); [la37](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la37-1606.html); [la39](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la39-1534.html); 
 
+### ORB
+
+[orb01](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/orb01-1148.html); [orb02](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/orb02-997.html); [orb03](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/orb03-1179.html); [orb08](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/orb08-1033.html); [orb10](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/orb10-1079.html); 
+
+### SWV
+
+[swv02](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/swv02-2070.html); [swv07](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/swv07-2047.html); [swv08](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/swv8-1852.html); 
+
+[swv16](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/swv16-2924.html); [swv17](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/swv17-1802.html); [swv20](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/swv20-2823.html); 
+
+### YN
+
+[yn1](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn1-1033.html); [yn2](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn2-1067.html); [yn3](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn3-1035.html); [yn4](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn4-1170.html); 

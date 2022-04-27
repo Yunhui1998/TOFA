@@ -49,6 +49,6 @@ We test TOFA on JSP instances in [OR-LIBRARY](http://people.brunel.ac.uk/~mastjj
 [yn1](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn1-1033.html); [yn2](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn2-1067.html); [yn3](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn3-1035.html); [yn4](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn4-1170.html); 
 
 <p float="left">
-  <img src=".\README pic\image-20220427155956385.png" style="zoom:50%;" />
-  <img src=".\README pic\image-20220427155731665.png" style="zoom:50%;" /> 
+  <img src=".\README pic\image-20220427155956385.png" style="zoom:10%;" />
+  <img src=".\README pic\image-20220427155731665.png" style="zoom:10%;" /> 
 </p>

@@ -18,7 +18,7 @@ Overview of TOFA.
 
 ## Gantt
 
-We test TOFA on JSP instances in [OR-LIBRARY](http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/jobshop1.txt), and generate the corresponding Gantt chart. You can jump to the results via the link below.
+We test TOFA on JSP instances in [OR-LIBRARY](http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/jobshop1.txt), and generate the corresponding Gantt chart. You can jump to the results via the link below. 
 
 ### FT
 
@@ -47,3 +47,5 @@ We test TOFA on JSP instances in [OR-LIBRARY](http://people.brunel.ac.uk/~mastjj
 ### YN
 
 [yn1](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn1-1033.html); [yn2](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn2-1067.html); [yn3](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn3-1035.html); [yn4](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/yn4-1170.html); 
+
+<img src="E:\study\大师球\论文\jsp\Attention+D3QPN\code\TOFA\README pic\image-20220427155956385.png" alt="image-20220427155956385" style="zoom:50%;" /><img src="E:\study\大师球\论文\jsp\Attention+D3QPN\code\TOFA\README pic\image-20220427155731665.png" alt="image-20220427155731665" style="zoom:50%;" />

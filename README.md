@@ -10,7 +10,7 @@ Research in artificial intelligence demonstrates the applicability and flexibili
 
 The overall framework of TOFA is shown in Fig. TOFA aims to train the model only once and use it for any size of JSP instance with good performance. The core component is the GRL module that converts a disjunctive graph of arbitrary size into a fixed-length vector. The remaining tricks are improved prioritized experience replay, non-trival state skipping, and heuristic rule-based actions. 
 
-![Overview of TOFA](./README pic/TOFA.png)
+ ![Overview of TOFA](https://github.com/Yunhui1998/TOFA/blob/main/README pic/TOFA.png)
 
 ## Performance
 

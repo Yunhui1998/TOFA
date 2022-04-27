@@ -27,7 +27,7 @@ A large number of methods that we tested on all instances in OR-LIBRARY were use
 
 A detailed description of these methods can be found in the [full paper]()(*need paper link*).
 
-The full results of the test are stored in the [table](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/result/result.html). 
+The full results of the test are stored in the [table](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/result/result.htm). 
 
 ## Gantt
 

@@ -14,7 +14,20 @@ The overall framework of TOFA is shown in Fig. TOFA aims to train the model only
 
 ## Performance
 
-*need a table*
+A large number of methods that we tested on all instances in OR-LIBRARY were used to compare the performance of TOFA. These methods include：
+
+1. SDRs: FIFO, LIFO, LPT, SPT, LTPT, STPT, MOR, LOR
+2. Using random SDRs for a period of time
+3. MDRs: MOR+LPT, LOR+SPT, FCFS*S, SI/Q
+4. Meta-Heuristic: GA, GWO and DE
+5. Other reinforcement learning: PPO, D3QPN
+6. Different GRL modules: GNN, GAT, GKAT, MAX (maximum pooling), AVG (average pooling), Padding zero
+7. Different frame skipping methods: Bellman
+8. Optimal strategy
+
+A detailed description of these methods can be found in the [full paper]()(*need paper link*).
+
+The full results of the test are stored in the [table](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/result/result.html). 
 
 ## Gantt
 

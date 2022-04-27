@@ -1,18 +1,30 @@
 # TOFA
 
+***This is the support material for paper : "You Only Train Once: A highly generalizable reinforcement learning method for dynamic job shop scheduling problem"***
+
+## Abstract
+
 Research in artificial intelligence demonstrates the applicability and flexibility of the reinforcement learning(RL) technique for the dynamic job shop scheduling problem(DJSP). However, the RL-based method will always overfit to the training environment and cannot generalize well to novel unseen situations at deployment time, which is unacceptable in real-world production. For this reason, this paper proposes a highly generalizable reinforcement learning framework named Train once or all (TOFA)  for the dynamic job shop scheduling problem. The trivial and non-trivial states are distinguished in the formulation process, and the DJSP is formulated as a semi-Markov decision process. A novel graph representation learning method based on attention mechanism and spatial pyramid pooling is implemented to compress the disjunctive graphs of different-size DJSP into fixed-length feature vectors. Combining the proposed dynamic frame skipping and an improved prioritized experience replay method that considers the sample quality, TOFA shows superb generalization capability, outperforms practically favored dispatching rules and even instance-by-instance training RL-based schedulers on various benchmark DJSP. Additionally, we proved that TOFA acquires a transferable scheduling policy that can be used to schedule a whole new DJSP  without additional training.
 
-# Gantt
+## Method
+
+*need a pic*
+
+## Performance
+
+*need a table*
+
+Overview of TOFA. 
+
+## Gantt
 
 We test TOFA on JSP instances in [OR-LIBRARY](http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/jobshop1.txt), and generate the corresponding Gantt chart. You can jump to the results via the link below.
 
-http://htmlpreview.github.io/?
-
-## FT
+### FT
 
 [ft06](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/ft06-59.html); 
 
-## LA
+### LA
 
 [la01](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la01-666.html); [la04](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la04.html); [la05](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la05-593.html); [la06](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la06-926.html); [la07](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la07-917.html); [la08](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la08-863.html); [la09](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la09-951.html); [la10](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la10-958.html); 
 [la12](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la12-1039.html); [la13](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la13-1150.html); [la14](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la14-1292.html); [la15](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la15-1314.html); [la16](http://htmlpreview.github.io/?https://github.com/Yunhui1998/TOFA/blob/main/Gantt/la16-1108.html); 

@@ -31,7 +31,7 @@ The full results of the test are stored in the [table](http://htmlpreview.github
 
 ## Gantt
 
-We test TOFA on JSP instances in [OR-LIBRARY](http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/jobshop1.txt), and generate the corresponding Gantt chart. You can jump to the results via the link below. 
+We test TOFA on JSP instances in [OR-LIBRARY](http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/jobshop1.txt), and generate the corresponding Gantt chart. You can jump to the results via the link below. Note that either clicking on the **image** or the **title** will bring you to the corresponding Gantt chart. 
 
 ### FT
 
